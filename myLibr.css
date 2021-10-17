@@ -1,0 +1,12 @@
+@import "./mediaQ.css";
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  outline: 0;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
