@@ -24,5 +24,19 @@ header {
   height: auto;
   display: flex;
   align-items: center;
-  justify-content: center;
+  background-color: rgb(20, 20, 20);
+  overflow: hidden;
+}
+.nav_logo {
+  width: auto;
+  margin: 15px;
+}
+.nav {
+  margin-left: 20px;
+}
+.nav a {
+  color: #fff;
+  font-size: 18px;
+  margin: 10px;
+  transition-duration: 0.5s;
 }
